@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://anmol493487.github.io/csb-khjcmh/static/css/main.a99e93fc.chunk.css",
+    "main.js": "https://anmol493487.github.io/csb-khjcmh/static/js/main.5e3c8f6d.chunk.js",
+    "main.js.map": "https://anmol493487.github.io/csb-khjcmh/static/js/main.5e3c8f6d.chunk.js.map",
+    "runtime-main.js": "https://anmol493487.github.io/csb-khjcmh/static/js/runtime-main.c18a0e6a.js",
+    "runtime-main.js.map": "https://anmol493487.github.io/csb-khjcmh/static/js/runtime-main.c18a0e6a.js.map",
+    "static/js/2.13f7a062.chunk.js": "https://anmol493487.github.io/csb-khjcmh/static/js/2.13f7a062.chunk.js",
+    "static/js/2.13f7a062.chunk.js.map": "https://anmol493487.github.io/csb-khjcmh/static/js/2.13f7a062.chunk.js.map",
+    "index.html": "https://anmol493487.github.io/csb-khjcmh/index.html",
+    "static/css/main.a99e93fc.chunk.css.map": "https://anmol493487.github.io/csb-khjcmh/static/css/main.a99e93fc.chunk.css.map",
+    "static/js/2.13f7a062.chunk.js.LICENSE.txt": "https://anmol493487.github.io/csb-khjcmh/static/js/2.13f7a062.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c18a0e6a.js",
+    "static/js/2.13f7a062.chunk.js",
+    "static/css/main.a99e93fc.chunk.css",
+    "static/js/main.5e3c8f6d.chunk.js"
+  ]
+}
